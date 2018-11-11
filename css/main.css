@@ -1,0 +1,6 @@
+.jumbotron {
+background-image: url("../img/2cakelavendar.jpg");
+/*".." is necessary to go back up to another folder as you are too low in css for it to recognise photo in img*/
+background-size: cover;
+height: 100%;
+}
